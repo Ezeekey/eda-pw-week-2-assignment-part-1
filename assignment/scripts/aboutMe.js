@@ -88,4 +88,11 @@ switch(luckyNumber) {
 
 // 18 -- Rewrite question 13 with a `ternary` operator. You'll need to do research!
 
-// See line 43.
+// Since I already wrote that question as a ternary, I am writing an if statement here to
+// prove I can write an if statement.
+
+if (adventurous) {
+    console.log("Adventures are great!");
+} else {
+    console.log("Maybe we should just stay home?");
+}
